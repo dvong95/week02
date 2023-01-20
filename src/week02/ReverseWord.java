@@ -5,7 +5,7 @@
 package week02;
 import java.util.*;
 /**
- *
+ *Hello there.
  * @author david
  */
 public class ReverseWord {
