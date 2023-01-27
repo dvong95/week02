@@ -6,7 +6,7 @@ package week02;
 
 /**
  *
- * @author david
+ * @author david vong
  */
 public class Week02 {
 
